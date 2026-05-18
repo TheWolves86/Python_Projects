@@ -1,0 +1,11 @@
+One <adjective> morning, <person_name> went to the <place> to find a <adjective> <animal>.
+
+When they arrived, they saw a <color> door with a sign that said, “Only people carrying a <noun> may enter.”
+
+So <person_name> quickly grabbed a <noun>, opened the door, and found a room full of <plural_noun>.
+
+Suddenly, a <adjective> wizard jumped out and shouted, “You must <verb> before the clock strikes <number>!”
+
+Everyone started <verb_ending_in_ing>, and somehow the <animal> became the king of the <place>.
+
+It was the most <adjective> day ever.
